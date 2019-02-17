@@ -7,4 +7,5 @@ node  {
     stage('Build Stage')    
         {        
 	echo "hello build"    
-	} 
+	}
+}	
