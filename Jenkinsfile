@@ -8,9 +8,7 @@ node  {
         {        
 	echo "hello build"    
 	}
-post {
-	always {
-		echo 'I will always say Hello again'
-	}
+
+	
 }	
-}	
+	
